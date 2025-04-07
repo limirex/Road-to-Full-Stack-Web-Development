@@ -1,0 +1,23 @@
+p {
+    color: blue;
+}
+
+#special {
+    font-style: italic;
+}
+
+.note {
+    text-decoration: underline;
+}
+
+li:nth-child(3) {
+    background-color: yellow;
+}
+
+a[target="_blank"] {
+    color: red;
+}
+
+button:hover {
+    background-color: green;
+}
