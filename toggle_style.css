@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+}
+
+header {
+    background-color: grey;
+    color: white;
+}
+
+section {
+    background-color: white;
+}
+
+footer {
+    background-color: grey;
+    color: white;
+}
+
+a {
+    color: white;
+}
