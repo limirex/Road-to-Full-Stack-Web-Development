@@ -1,26 +1,24 @@
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
 }
 
-/* Write your CSS below, don't change the rules above. */
 p {
-  color: red;
+  color: yellow;
+  margin: 0;
+  padding: 0;
 }
 
-.note {
-  font-size: 20px;
+.white-text {
+  color: white;
 }
 
-#id-selector-demo {
-  color: green;
+.inner-box {
+  background-color: red;
 }
 
-li[value="4"] {
-  color: blue;
-}
-
-* {
-  text-align: center;
+#outer-box {
+  background-color: purple;
 }
